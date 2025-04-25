@@ -8,7 +8,11 @@
 💻 Buscando evoluir todos os dias e transformar ideias em código.  
 🚀 Sempre curioso, sempre aprendendo.
 
+---
+
 ## 🤖 Linguagens e Tecnologia
+
+<br>
 
 <img 
     align="left" 
@@ -49,9 +53,15 @@
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 />
+
+<br>
+<br>
+
 ---
 
 ## 📚 Atualmente aprendendo
+
+<br>
 
 <img 
     align="left" 
@@ -76,6 +86,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<br>
+<br>
 
 ---
 
