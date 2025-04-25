@@ -1,4 +1,4 @@
-# 👋 E aí! Eu sou o Pedro
+# 👋 E aí! Sou Pedro Ricardo!
 
 🎯 **Desenvolvedor em formação**, apaixonado por tecnologia e programação!  
 💻 Buscando evoluir todos os dias e transformar ideias em código.  
