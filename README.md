@@ -1,6 +1,6 @@
 # 🧑‍💻 Pedro Ricardo!
 
-**`Desenvolvedor Aprendiz FullStack`**
+**`Desenvolvedor Aprendiz`**
 
 ---
 
